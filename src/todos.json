@@ -1,0 +1,23 @@
+{
+     "todos": [
+          {
+               "title": "Task 1",
+               "responsible": "Xavi",
+               "description": "Fer la tasca 1",
+               "priority": "Baixa"
+          },
+          {
+               "title": "Task 2",
+               "responsible": "Xavi",
+               "description": "Fer la tasca 2",
+               "priority": "Mitja"
+          },
+          {
+               "title": "Task 3",
+               "responsible": "Xavi",
+               "description": "Fer la tasca 3",
+               "priority": "Alta"
+          }
+
+     ]
+}
